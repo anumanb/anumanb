@@ -33,7 +33,7 @@ Know about my experiences [Click here to check my resume](https://drive.google.c
 Fun fact **Opposite of possible is "not developed yet"**
 </h6
 <br>
-<h4 align="center">Please feel free to contact me and I will help you at any stage, from an idea or small application to a full-scale solution. Thank you! </h4>
+<h4 align="center">Please feel free to contact me and I will help you at any stage, from an idea or small application to a full-scale solution. <br>Thank you! </h4>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
