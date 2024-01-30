@@ -23,7 +23,7 @@ I will go beyond the basics and create the Design and Functionality specifically
 
 <h6 align="left">Connect With me : 
 	<a href="https://linkedin.com/in/officialbhatia">LinkedIn</a>,
-	<a href="https://instagram.com/b.anuman">Instagram</a>
+	<a href="https://instagram.com/b.anuman">Instagram</a>,
 	<a href=mailto:bhatia.official@gmail.com>Gmail</a>, 
 	<a href="https://wa.me/917357637977">Whatsapp</a>
 	<br><br>
